@@ -13,8 +13,3 @@ This project implements a **Virtual Painter** using **OpenCV**, **Mediapipe**, a
 - OpenCV
 - Mediapipe
 - NumPy
-
-## How to Run
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/virtual-painter.git
