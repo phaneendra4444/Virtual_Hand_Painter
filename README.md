@@ -13,3 +13,9 @@ This project implements a **Virtual Painter** using **OpenCV**, **Mediapipe**, a
 - OpenCV
 - Mediapipe
 - NumPy
+
+## Contributed By
+
+- Donthabhaktuni Chaitanya (225890444)
+- Jayanth (225890282)
+- Chinni Vinay Kumar (225890510)
